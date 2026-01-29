@@ -1,17 +1,23 @@
-# ⚡ ERROR: [happy] Not Found_
-> **Architecting the Void** | Full-stack Sorcerer | High-Frequency Builder
+<div align="center">
+
+# Hello, I'm happy. 👋
+
+`Build fast. Break things. Fix them before anyone notices.`
 
 ---
 
-### 💻 System.init()
-```python
-class Developer:
-    def __init__(self):
-        self.alias = "[happy dodollo]"
-        self.role  = "Full Stack Developer & Web3 Explorer"
-        self.code  = ["Python", "TypeScript", "Rust", "Go"]
-        self.tools = ["Docker", "Kubernetes", "PostgreSQL", "Redis"]
-        self.goal  = "Turning caffeine into scalable decentralization"
+### 🛠️ The Stack
+**Frontend** / React · Next.js · Tailwind
+**Backend** / Python · Node.js · Go
+**Web3** / Intelligent Contracts · DeFi · Rust
 
-    def get_status(self):
-        return "Always building, mostly caffeinated."
+---
+
+### ⚡ Activity
+![happy's Stats](https://github-readme-stats.vercel.app/api?username=happy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+
+---
+
+[ 🐦 Twitter ](https://twitter.com/你的推特) / [ 📧 Contact ](mailto:你的邮箱)
+
+</div>
